@@ -3,9 +3,8 @@
 def counter(num)
   i = 0
   while i < num do
-     puts i
-     i += 1
+     puts i += 1
   end   
 end
 
-puts counter(15)
+puts counter(24)
